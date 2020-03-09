@@ -23,7 +23,7 @@ Create an [Issue](https://github.com/AndrewDiMola/eden-xi-teleport/issues) withi
 I'm available for teleport requests whenever Issues is open to create a ticket. Whenever I'm not around, or not planning on fielding requests, Issues will be disabled for this repo.
 
 ## Can I have Vahzl?
-**TL;DR:** Coming soon! 
+Coming soon! 
 
 ## Where are you in game?
 `/sea zhadn` 
