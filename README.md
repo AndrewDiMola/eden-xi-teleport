@@ -18,4 +18,9 @@ Create an [Issue](https://github.com/AndrewDiMola/eden-xi-teleport/issues) withi
 # faq
 
 ## How do I know if you're accepting requests?
-I'm available for teleport requests whenever Issues is open to create a ticket. Whenever I'm not around, or not planning on fielding requests, Issues will be disabled for this repo. 
+I'm available for teleport requests whenever Issues is open to create a ticket. Whenever I'm not around, or not planning on fielding requests, Issues will be disabled for this repo.
+
+## Can I have Teleport-Yhoat, Altep, or Vahzl?
+**TL;DR:** Soon! I have the scrolls for Yhoat and Altep and am close to WHM 38. 
+
+Vahzl will take some more time though. 
