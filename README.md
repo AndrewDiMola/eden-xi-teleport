@@ -26,4 +26,4 @@ I'm available for teleport requests whenever Issues is open to create a ticket. 
 Vahzl will take some more time though. 
 
 ## Where are you in game?
-`sea zhadn` 
+`/sea zhadn` 
