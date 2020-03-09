@@ -24,3 +24,6 @@ I'm available for teleport requests whenever Issues is open to create a ticket. 
 **TL;DR:** Soon! I have the scrolls for Yhoat and Altep and am close to WHM 38. 
 
 Vahzl will take some more time though. 
+
+## Where are you in game?
+`sea zhadn` 
