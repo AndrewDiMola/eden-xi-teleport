@@ -1,5 +1,5 @@
 # eden-xi-teleport
-For players on the Eden XI private server, create a ticket and I will come back from AFK and grant you Teleport-{Location}. Creating an issue pushes a notification to my phone. Use /tell to let me know who you are. 
+For players on the Eden XI private server, create a ticket and I will come back from AFK and grant you Teleport-{Location}. Creating an issue pushes a notification to my phone. Use `/tell zhadn` to let me know who you are. 
 
 Reward appreciated.
 
