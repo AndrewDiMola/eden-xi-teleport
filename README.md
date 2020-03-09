@@ -10,6 +10,8 @@ Create an [Issue](https://github.com/AndrewDiMola/eden-xi-teleport/issues) withi
 
 **Body:** {Whatever you want to say}
 
+If you land on the Pull Requests page, I've disabled Issues and am not currently fielding requests.
+
 # available teleports
 * Teleport-Dem
 * Teleport-Holla
