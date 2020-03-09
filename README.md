@@ -1,5 +1,7 @@
 # eden-xi-teleport
-For players on the Eden XI private server, create a ticket and I will come back from AFK and grant you Teleport-{Location}. Reward appreciated.
+For players on the Eden XI private server, create a ticket and I will come back from AFK and grant you Teleport-{Location}. Creating an issue pushes a notification to my phone. Use /tell to let me know who you are. 
+
+Reward appreciated.
 
 # how to use
 Create an [Issue](https://github.com/AndrewDiMola/eden-xi-teleport/issues) within this repo, using the following template:
