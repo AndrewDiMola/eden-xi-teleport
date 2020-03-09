@@ -5,6 +5,7 @@ For players on the Eden XI private server, create a ticket and I will come back 
 Create an [Issue](https://github.com/AndrewDiMola/eden-xi-teleport/issues) within this repo, using the following template:
 
 **Title:** Teleport-{Location}, Can I have it?
+
 **Body:** {Whatever you want to say}
 
 # available teleports
