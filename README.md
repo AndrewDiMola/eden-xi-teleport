@@ -4,13 +4,13 @@ For players on the Eden XI private server, create a ticket and I will come back 
 Reward appreciated.
 
 # how to use
-Create an [Issue](https://github.com/AndrewDiMola/eden-xi-teleport/issues) within this repo, using the following template:
+Create an [Issue](https://github.com/AndrewDiMola/eden-xi-teleport/issues)* within this repo, using the following template:
 
 > **Title:** Teleport-{Location}, Can I have it?
 
 > **Body:** {Whatever you want to say}
 
-If you land on the Pull Requests page, I've disabled Issues and am not currently fielding requests.
+*If you land on the Pull requests tab, I've disabled Issues and am not currently fielding requests.
 
 # available teleports
 * Teleport-Dem
@@ -22,7 +22,7 @@ If you land on the Pull Requests page, I've disabled Issues and am not currently
 # faq
 
 ## How do I know if you're accepting requests?
-I'm available for teleport requests whenever Issues is open to create a ticket. Whenever I'm not around, or not planning on fielding requests, Issues will be disabled for this repo.
+I'm available for teleport requests whenever Issues is open to create a ticket. **Whenever I'm not around, or not planning on fielding requests, Issues will be disabled for this repo.**
 
 ## Can I have Teleport-Vahzl?
 Coming soon! 
