@@ -6,9 +6,9 @@ Reward appreciated.
 # how to use
 Create an [Issue](https://github.com/AndrewDiMola/eden-xi-teleport/issues) within this repo, using the following template:
 
-**Title:** Teleport-{Location}, Can I have it?
+> **Title:** Teleport-{Location}, Can I have it?
 
-**Body:** {Whatever you want to say}
+> **Body:** {Whatever you want to say}
 
 If you land on the Pull Requests page, I've disabled Issues and am not currently fielding requests.
 
