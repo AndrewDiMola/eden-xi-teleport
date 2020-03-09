@@ -14,3 +14,8 @@ Create an [Issue](https://github.com/AndrewDiMola/eden-xi-teleport/issues) withi
 * Teleport-Dem
 * Teleport-Holla
 * Teleport-Mea
+
+# faq
+
+## How do I know if you're accepting requests?
+I'm available for teleport requests whenever Issues is open to create a ticket. Whenever I'm not around, or not planning on fielding requests, Issues will be disabled for this repo. 
